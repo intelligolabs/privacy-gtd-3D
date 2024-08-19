@@ -4,11 +4,8 @@ Official implementation of the paper [Upper-Body Pose-based Gaze Estimation for 
 ## Installation ##
 The code will be available soon.
 
-## Authors ##
-Andrea Toaiari<sup>1</sup>, Vittorio Murino<sup>2</sup>, Marco Cristani<sup>1</sup>, and Cigdem Beyan<sup>2</sup>
-
-<sup>1</sup> *Department of Engineering for Innovation Medicine, University of Verona, Italy*
-<sup>2</sup> *Department of Computer Science, University of Verona, Verona, Italy*
+## Acknowledgements ##
+The code will be available soon.
 
 ## Citation ##
 ```
